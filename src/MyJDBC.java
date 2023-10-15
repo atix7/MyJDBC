@@ -27,7 +27,4 @@ public class MyJDBC {
 }
 
 
-/*    String insertQuery = "INSERT INTO your_table_name (name, age) VALUES (?, ?)";
-
-            preparedStatement.setString(1, name);
-                    preparedStatement.setInt(2, age);*/
+//Törölve a comment
